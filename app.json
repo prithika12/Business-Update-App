@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "stock-update",
-    "slug": "stock-update",
+    "name": "Business Update",
+    "slug": "business-update",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
