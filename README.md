@@ -3,7 +3,7 @@
 Business Update is a news app that keeps you up-to-date with the latest business news around the world from trusted sources
 
 
-#Features
+Features
 - Get articles from trusted sources
 - Search about any business topics 
 
